@@ -5,4 +5,5 @@ Create technical content,Act as a technical cource content creator and make cont
 Create MCQ,Create MCQ with correct answer base on provided data below:
 Fix grammer markdown,"Fix grammar, typos, spelling, punctuation for below 'markdown' text:"
 Fix grammar,"Fix grammar, typos, spelling, punctuation for below text; refrace sentence if it can be 'better'."
+Programmer,Act as a programmer/fullstack developer and provide code to solve the below problem:
 Create prompt,Make me a prompt command that acts for a task
